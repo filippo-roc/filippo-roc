@@ -15,7 +15,7 @@
 
 - LeetCode : <a href = "https://leetcode.com/Roccas03/">https://leetcode.com/Roccas03/</a>
 
-- FastFingers : <a href = "[https://leetcode.com/Roccas03/](https://10fastfingers.com/user/2714551/)">https://leetcode.com/Roccas03/</a>
+- FastFingers : <a href = "https://10fastfingers.com/user/2714551/"https://10fastfingers.com/user/2714551/</a>
  
 
 
