@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Filippo</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate developer from Italy</h3>
 <img aligh = "right" alt ="coding" width = "400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filippo-roc&label=Profile%20views&color=0e75b6&style=flat" alt="filippo-roc" /> </p>
@@ -13,7 +13,10 @@
 
 - HackerRank : <a href = "https://www.hackerrank.com/filippo_roccama1?hr_r=1">https://www.hackerrank.com/filippo_roccama1?hr_r=1</a>
 
-- LeetCode : <a href = "https://leetcode.com/Roccas03/">https://leetcode.com/Roccas03/</a>  
+- LeetCode : <a href = "https://leetcode.com/Roccas03/">https://leetcode.com/Roccas03/</a>
+
+- FastFingers : <a href = "[https://leetcode.com/Roccas03/">https://leetcode.com/Roccas03](https://10fastfingers.com/user/2714551/)/</a>  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
